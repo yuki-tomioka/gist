@@ -7,3 +7,6 @@
 [submodule "normalization-url-with-htaccess/unify-no-www"]
 	path = normalization-url-with-htaccess/unify-no-www
 	url = https://gist.github.com/8e29e056e366581b755ac9b8fe496f60.git
+[submodule "worodpress/wp-loop"]
+	path = worodpress/wp-loop
+	url = https://gist.github.com/yuki-tomioka/3264b96e01e6f2bc32f1503a81baef5f
